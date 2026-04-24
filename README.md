@@ -1,4 +1,3 @@
-# diabetes-project
 
 # Diabetes Risk Classification
 
